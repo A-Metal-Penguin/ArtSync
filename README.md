@@ -1,5 +1,7 @@
 # ArtSync
-Basically, Github but for art
+![Art Sync Logo | The Git Logo, but with a brush handle indicating the concept of Git, but for art!](https://raw.githubusercontent.com/A-Metal-Penguin/ArtSync/main/Brand%20ID/Art%20Sync%20-%20Logo.svg)
+
+## Basically, Github but for art
 
 Hi! I'm Amp and I have an idea that's basically Github, but for art.
 
